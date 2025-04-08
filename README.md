@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://fontmeme.com/permalink/240408/f00c5409c8b1f3c2824f49a8c55b4bfc.png" alt="DarkPort Logo" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="160px"/>
-</p>
-
 <h1 align="center">⚡ DarkPort — Advanced Python Port Scanner ⚡</h1>
 <p align="center">
   <b>By Krupal Prajapati</b> | 🛡️ Cybersecurity | 🕵️ Ethical Hacking
@@ -130,14 +122,3 @@ Who knows... Maybe if you scan port `1337` or `1989`, you’ll get a surprise! �
   <br>
   <b>Let’s-a scan! 🧰✨</b>
 </p>
-```
-
----
-
-Let me know if you'd like:
-- An HTML report template in Mario theme  
-- The `requirements.txt` auto-generated  
-- README turned into a downloadable file  
-- GitHub repository setup with this design
-
-🎮
