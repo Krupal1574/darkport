@@ -1,0 +1,6 @@
+scapy
+tabulate
+termcolor
+requests
+geoip2
+colorama
