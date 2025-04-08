@@ -1,6 +1,6 @@
 <h1 align="center">⚡ DarkPort — Advanced Python Port Scanner ⚡</h1>
 <p align="center">
-  <b>By Krupal Prajapati</b> | 🛡️ Cybersecurity | 🕵️ Ethical Hacking
+  <b>By <a href="https://github.com/Krupal1574">Krupal Prajapati</a></b> | 🛡️ Cybersecurity | 🕵️ Ethical Hacking
 </p>
 
 ---
