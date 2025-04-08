@@ -20,7 +20,7 @@ print(r"""
  |_____/_/    \_\_|  \_\_|\_\_|     \____/|_|  \_\ |_|   
 
          ⚡ DarkPort — Advanced Python Port Scanner ⚡
-             Developer: <a href="https://github.com/Krupal1574">Krupal Prajapati</a>
+             Developer:Krupal Prajapati
 """)
 
 from urllib.parse import urlparse
