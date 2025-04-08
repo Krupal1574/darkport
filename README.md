@@ -79,8 +79,6 @@ When scanning starts, DarkPort automatically:
 
 ---
 
-## 🎨 Mario-Themed CLI Example
-
 ```text
   _____          _____  _  _______   ____  _____ _______
  |  __ \   /\   |  __ \| |/ /  __ \ / __ \|  __ \__   __|
