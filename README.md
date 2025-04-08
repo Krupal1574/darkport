@@ -31,15 +31,6 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
-> Example `requirements.txt`:
-```text
-scapy
-tabulate
-termcolor
-requests
-```
-
 ---
 
 ## 🕹️ Usage
